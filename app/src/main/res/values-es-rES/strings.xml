@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="description_hint">Descripción&#8230;</string>
+    <string name="title_hint">Título&#8230;</string>
+    <string name="editTitle">Editar el título</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="mustComplete">Por favor, completa los campos de texto</string>
+    <string name="setTitle">Escribe el título</string>
+    <string name="delete">Eliminar nota</string>
+</resources>

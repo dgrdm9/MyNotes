@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="description_hint">Description&#8230;</string>
+    <string name="title_hint">Title&#8230;</string>
+    <string name="editTitle">Edit title</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="mustComplete">Please fill in the text field</string>
+    <string name="setTitle">Set the title</string>
+    <string name="delete">Delete note</string>
+</resources>
